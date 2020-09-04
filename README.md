@@ -1,1 +1,1 @@
-# python
+# python tricks tips techniques
